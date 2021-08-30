@@ -1,0 +1,183 @@
+Crop,State,Yield (Quintal/ Hectare) 
+ARHAR,Uttar Pradesh,9.83
+ARHAR,Karnataka,7.47
+ARHAR,Gujarat,9.59
+ARHAR,Andhra Pradesh,6.42
+ARHAR,Maharashtra,8.72
+COTTON,Maharashtra,12.69
+COTTON,Punjab,24.39
+COTTON,Andhra Pradesh,17.83
+COTTON,Gujarat,19.05
+COTTON,Haryana,19.9
+GRAM,Rajasthan,6.83
+GRAM,Madhya Pradesh,10.29
+GRAM,Uttar Pradesh,10.93
+GRAM,Maharashtra,8.05
+GRAM,Andhra Pradesh,16.69
+GROUNDNUT,Karnataka,4.71
+GROUNDNUT,Andhra Pradesh,11.97
+GROUNDNUT,Tamil Nadu,11.98
+GROUNDNUT,Gujarat,13.45
+GROUNDNUT,Maharashtra,9.33
+MAIZE,Bihar,42.95
+MAIZE,Karnataka,31.1
+MAIZE,Rajasthan,23.56
+MAIZE,Uttar Pradesh,13.7
+MAIZE,Andhra Pradesh,42.68
+MOONG,Orissa,3.01
+MOONG,Rajasthan,4.05
+MOONG,Karnataka,1.32
+MOONG,Andhra Pradesh,5.9
+MOONG,Maharashtra,6.7
+PADDY,Uttar Pradesh,36.61
+PADDY,Orissa,32.42
+PADDY,West Bengal,39.04
+PADDY,Punjab,67.41
+PADDY,Andhra Pradesh,56
+RAPESEED AND MUSTARD,Madhya Pradesh,12.94
+RAPESEED AND MUSTARD,Rajasthan,13.54
+RAPESEED AND MUSTARD,Uttar Pradesh,13.57
+RAPESEED AND MUSTARD,Gujarat,11.61
+RAPESEED AND MUSTARD,Haryana,19.94
+SUGARCANE,Uttar Pradesh,448.89
+SUGARCANE,Karnataka,986.21
+SUGARCANE,Andhra Pradesh,757.92
+SUGARCANE,Maharashtra,744.01
+SUGARCANE,Tamil Nadu,1015.45
+WHEAT,Madhya Pradesh,23.59
+WHEAT,Punjab,39.83
+WHEAT,Uttar Pradesh,34.99
+WHEAT,Rajasthan,37.19
+RICE,Gujarat,42.68
+RICE,Haryana,3.01
+RICE,Uttar Pradesh,4.05
+RICE,Karnataka,1.32
+RICE,Andhra Pradesh,5.9
+RICE,Maharashtra,6.7
+RICE,Tamil Nadu,36.61
+RICE,Madhya Pradesh,32.42
+RICE,Punjab,39.04
+RICE,Uttar Pradesh,67.41
+RICE,Rajasthan,56
+CHICKPEA,Uttar Pradesh,19.94
+CHICKPEA,Gujarat,448.89
+CHICKPEA,Haryana,986.21
+CHICKPEA,Uttar Pradesh,757.92
+CHICKPEA,Karnataka,744.01
+CHICKPEA,Andhra Pradesh,1015.45
+CHICKPEA,Maharashtra,23.59
+CHICKPEA,Tamil Nadu,39.83
+CHICKPEA,Madhya Pradesh,34.99
+CHICKPEA,Punjab,37.19
+CHICKPEA,Uttar Pradesh,42.68
+CHICKPEA,Rajasthan,23.56
+CHICKPEA,Gujarat,13.7
+CHICKPEA,Haryana,42.68
+CHICKPEA,Maharashtra,3.01
+CHICKPEA,Punjab,4.05
+CHICKPEA,Uttar Pradesh,1.32
+CHICKPEA,Rajasthan,5.9
+KIDNEYBEANS,Uttar Pradesh,7.47
+KIDNEYBEANS,Gujarat,9.59
+KIDNEYBEANS,Haryana,6.42
+KIDNEYBEANS,Uttar Pradesh,8.72
+KIDNEYBEANS,Karnataka,12.69
+KIDNEYBEANS,Andhra Pradesh,24.39
+KIDNEYBEANS,Maharashtra,17.83
+KIDNEYBEANS,Tamil Nadu,19.05
+KIDNEYBEANS,Madhya Pradesh,19.9
+KIDNEYBEANS,Punjab,6.83
+KIDNEYBEANS,Uttar Pradesh,10.29
+KIDNEYBEANS,Rajasthan,10.93
+KIDNEYBEANS,Gujarat,8.05
+KIDNEYBEANS,Haryana,16.69
+KIDNEYBEANS,Maharashtra,4.71
+KIDNEYBEANS,Punjab,11.97
+PIGEONPEA,Uttar Pradesh,11.98
+PIGEONPEA,Gujarat,4.05
+PIGEONPEA,Haryana,1.32
+PIGEONPEA,Uttar Pradesh,5.9
+PIGEONPEA,Karnataka,7.47
+PIGEONPEA,Andhra Pradesh,9.59
+PIGEONPEA,Maharashtra,6.42
+PIGEONPEA,Tamil Nadu,8.72
+PIGEONPEA,Madhya Pradesh,12.69
+PIGEONPEA,Punjab,24.39
+PIGEONPEA,Uttar Pradesh,17.83
+PIGEONPEA,Rajasthan,19.05
+PIGEONPEA,Gujarat,19.9
+PIGEONPEA,Haryana,6.83
+PIGEONPEA,Maharashtra,10.29
+PIGEONPEA,Punjab,10.93
+PIGEONPEA,Uttar Pradesh,8.05
+MOTHBEANS,Maharashtra,16.69
+MOTHBEANS,Tamil Nadu,4.71
+MOTHBEANS,Madhya Pradesh,11.97
+MOTHBEANS,Punjab,24.39
+MOTHBEANS,Uttar Pradesh,17.83
+MOTHBEANS,Rajasthan,19.05
+MOTHBEANS,Gujarat,19.9
+MOTHBEANS,Haryana,6.83
+MOTHBEANS,Maharashtra,10.29
+MOTHBEANS,Punjab,10.93
+MOTHBEANS,Uttar Pradesh,8.05
+MOTHBEANS,Rajasthan,16.69
+MOTHBEANS,Uttar Pradesh,4.71
+MOTHBEANS,Gujarat,11.97
+MOTHBEANS,Haryana,11.98
+MOTHBEANS,Uttar Pradesh,13.45
+MOTHBEANS,Karnataka,9.33
+MOTHBEANS,Andhra Pradesh,42.95
+MOTHBEANS,Maharashtra,31.1
+MUNGBEAN,Maharashtra,23.56
+MUNGBEAN,Tamil Nadu,13.7
+MUNGBEAN,Madhya Pradesh,42.68
+MUNGBEAN,Punjab,3.01
+MUNGBEAN,Uttar Pradesh,4.05
+MUNGBEAN,Rajasthan,1.32
+MUNGBEAN,Gujarat,5.9
+MUNGBEAN,Haryana,6.7
+MUNGBEAN,Maharashtra,36.61
+MUNGBEAN,Punjab,32.42
+MUNGBEAN,Uttar Pradesh,39.04
+MUNGBEAN,Rajasthan,757.92
+MUNGBEAN,Uttar Pradesh,744.01
+MUNGBEAN,Gujarat,1015.45
+MUNGBEAN,Haryana,23.59
+MUNGBEAN,Uttar Pradesh,39.83
+MUNGBEAN,Karnataka,34.99
+MUNGBEAN,Andhra Pradesh,37.19
+MUNGBEAN,Maharashtra,42.68
+BLACKGRAM,Tamil Nadu,23.56
+BLACKGRAM,Madhya Pradesh,13.7
+BLACKGRAM,Punjab,42.68
+BLACKGRAM,Uttar Pradesh,3.01
+BLACKGRAM,Rajasthan,4.05
+BLACKGRAM,Gujarat,1.32
+BLACKGRAM,Haryana,24.39
+BLACKGRAM,Maharashtra,17.83
+BLACKGRAM,Punjab,19.05
+BLACKGRAM,Uttar Pradesh,19.9
+BLACKGRAM,Rajasthan,6.83
+BLACKGRAM,Uttar Pradesh,10.29
+BLACKGRAM,Gujarat,10.93
+BLACKGRAM,Haryana,8.05
+BLACKGRAM,Uttar Pradesh,16.69
+BLACKGRAM,Karnataka,4.71
+BLACKGRAM,Andhra Pradesh,11.97
+BLACKGRAM,Maharashtra,11.98
+LENTIL,Tamil Nadu,13.45
+LENTIL,Madhya Pradesh,9.33
+LENTIL,Punjab,42.95
+LENTIL,Uttar Pradesh,31.1
+LENTIL,Rajasthan,23.56
+LENTIL,Gujarat,13.7
+LENTIL,Haryana,42.68
+LENTIL,Maharashtra,3.01
+LENTIL,Punjab,4.05
+LENTIL,Uttar Pradesh,1.32
+LENTIL,Rajasthan,5.9
+LENTIL,Uttar Pradesh,6.42
+LENTIL,Gujarat,8.72
+LENTIL,Haryana,12.69
+LENTIL,Uttar Pradesh,24.39
