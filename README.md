@@ -7,4 +7,4 @@ select device or platform and you will be abel to see result. If you found any d
 The web app is hosten on this link : https://digital-farming-42064.web.app/#/
 Note : you may encounter error or lag due to CORS policy in IBM cloud which prevents http request to access data. For testing please Run on local machine using given code.
 
-
+The android APK is also available in the repository.
